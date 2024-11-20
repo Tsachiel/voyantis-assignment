@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+h1 {
+  color: #2C3E50;
+}
+
+button {
+  background-color: #18BC9C;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1ABC9C;
+}
+
+select {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
